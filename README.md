@@ -1,4 +1,5 @@
-# eslint-config-xo-angular
+# eslint-config-xo-angular [![Build Status](https://travis-ci.org/lucianlature/eslint-config-xo-angular.svg?branch=master)](https://travis-ci.org/lucianlature/eslint-config-xo-angular)
+
 > ESLint [shareable config](http://eslint.org/docs/developer-guide/shareable-configs.html) for Angaulr to be used with [eslint-config-xo](https://github.com/sindresorhus/eslint-config-xo)
 
 This is for advanced users. You probably want to use [XO](https://github.com/sindresorhus/xo) directly.
