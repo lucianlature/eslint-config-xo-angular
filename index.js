@@ -1,5 +1,6 @@
 /**
  * Created by lucian on 07/09/15.
+ * Updated by nvaldes on 03/08/16.
  */
 
 'use strict';
@@ -38,7 +39,6 @@ module.exports = {
 		"angular/no-angular-mock": 0,
 		"angular/no-controller": 0,
 		"angular/no-cookiestore": 2,
-		"angular/no-digest": 2,
 		"angular/no-jquery-angularelement": 2,
 		"angular/no-private-call": 2,
 		"angular/no-service-method": 2,
@@ -52,7 +52,6 @@ module.exports = {
 		"angular/typecheck-function": 2,
 		"angular/typecheck-number": 2,
 		"angular/typecheck-object": 2,
-		"angular/typecheck-regexp": 2,
 		"angular/typecheck-string": 2,
 		"angular/watchers-execution": [0, "$digest"],
 		"angular/window-service": 2
