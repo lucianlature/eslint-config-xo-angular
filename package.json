@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xo-angular",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "ESLint shareable config for Angular to be used with eslint-config-xo",
   "main": "index.js",
   "scripts": {
